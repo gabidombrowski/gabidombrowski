@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning React Native.
+
 👯 I’m looking to collaborate on cross-functional and collaborative product teams.
 
 Most recently I've been working in Gitlab: https://gitlab.com/gdombrowski
