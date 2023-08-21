@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on cross-functional and collaborative product teams.
 
-Most recently I've been working in Gitlab: https://gitlab.com/gdombrowski
+My current work uses: https://github.com/gabidombrowski-query
 
 <!--
 **gabidombrowski/gabidombrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
