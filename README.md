@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React Native.
+I'm a senior WordPress and full-stack developer with deep expertise in performance, modern deployment workflows, and technical leadership.
 
-👯 I’m looking to collaborate on cross-functional and collaborative product teams.
+Whether you're a founder who needs a site that actually converts, a creative wanting to showcase their work, or a business with a dev team that needs serious technical direction, I build and advise at the level your project deserves. My work spans custom WordPress builds, CI/CD pipeline and version control setup, custom plugin development, full-stack web applications, and performance optimization.
 
-My current work uses: https://github.com/gabidombrowski-query
+https://digitallotusdev.com/
 
 <!--
 **gabidombrowski/gabidombrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
