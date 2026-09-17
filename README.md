@@ -6,8 +6,7 @@ Lately my work centers on building with LLMs with structured generation and tool
 
 **Worth a look:**
 - [recipe-generator](https://github.com/gabidombrowski/recipe-generator) — meal planner that generates recipes with Claude under code-checked constraints, with a verifier, versioned prompts, local embeddings, and a weekly eval suite
-- [Storybook Driven Design](https://gabidombrowski.github.io/mockit/) — my talk on component-driven frontend development, with the demo repo
-- Two articles on the [Okta Developer Blog](https://developer.okta.com/blog/2022/12/06/react-fastify-postgres) on React, Fastify, and Redux
+- Two articles on the [Okta Developer Blog](https://developer.okta.com/blog/authors/gabi-dombrowski/) on React, Fastify, and Redux
 
 **Elsewhere:** Mentor Director at [KC Women in Technology](https://www.kcwomenintech.org) · [LinkedIn](https://www.linkedin.com/in/gabid) · [digitallotusdev.com](https://digitallotusdev.com)
 
