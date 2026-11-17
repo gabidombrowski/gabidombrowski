@@ -5,7 +5,7 @@ I build full-stack web applications — React, TypeScript, Next.js, Node — and
 Lately my work centers on building with LLMs with structured generation and tool use, constraints checked in code rather than trusted, and eval suites that catch regressions.
 
 **Worth a look:**
-- [recipe-generator](https://github.com/gabidombrowski/recipe-generator) (IN PROGRESS) — meal planner that generates recipes with Claude under code-checked constraints. Built by directing Claude Code: the architecture, constraints, verifier, and eval design are mine; most code is AI-generated under review
+- [recipe-generator](https://github.com/gabidombrowski/recipe-generator) — meal planner that generates recipes with Claude under code-checked constraints. Built by directing Claude Code: the architecture, constraints, verifier, and eval design are mine; most code is AI-generated under review
 - [allthericks](https://github.com/gabidombrowski/allthericks) — hand-written demo of schema-driven GraphQL mocking with Apollo, faker, Storybook, and tests; used for a talk on Storybook Driven Design
 - Two articles on the Okta Developer Blog: [React + Fastify + Postgres](https://developer.okta.com/blog/2022/12/06/react-fastify-postgres) and [Redux authenticated state](https://developer.okta.com/blog/2022/08/29/react-typescript-redux)
 - Authored a Mentor Playbook: [Mentor Playbook](https://codingandcocktailskc.gitbook.io/mentor-playbook)
